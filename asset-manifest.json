@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/fav-album-list-2.0/static/css/main.b910616e.chunk.css",
-    "main.js": "/fav-album-list-2.0/static/js/main.cbb73d35.chunk.js",
-    "main.js.map": "/fav-album-list-2.0/static/js/main.cbb73d35.chunk.js.map",
+    "main.js": "/fav-album-list-2.0/static/js/main.267e61ff.chunk.js",
+    "main.js.map": "/fav-album-list-2.0/static/js/main.267e61ff.chunk.js.map",
     "runtime-main.js": "/fav-album-list-2.0/static/js/runtime-main.c6652d70.js",
     "runtime-main.js.map": "/fav-album-list-2.0/static/js/runtime-main.c6652d70.js.map",
-    "static/js/2.f9a1b1bf.chunk.js": "/fav-album-list-2.0/static/js/2.f9a1b1bf.chunk.js",
-    "static/js/2.f9a1b1bf.chunk.js.map": "/fav-album-list-2.0/static/js/2.f9a1b1bf.chunk.js.map",
+    "static/js/2.e51a78c8.chunk.js": "/fav-album-list-2.0/static/js/2.e51a78c8.chunk.js",
+    "static/js/2.e51a78c8.chunk.js.map": "/fav-album-list-2.0/static/js/2.e51a78c8.chunk.js.map",
     "index.html": "/fav-album-list-2.0/index.html",
-    "precache-manifest.abcba983550907e9afd11e942a5ecc03.js": "/fav-album-list-2.0/precache-manifest.abcba983550907e9afd11e942a5ecc03.js",
+    "precache-manifest.1787e76600f8b71a8afbfecf3fb6c41e.js": "/fav-album-list-2.0/precache-manifest.1787e76600f8b71a8afbfecf3fb6c41e.js",
     "service-worker.js": "/fav-album-list-2.0/service-worker.js",
     "static/css/main.b910616e.chunk.css.map": "/fav-album-list-2.0/static/css/main.b910616e.chunk.css.map",
-    "static/js/2.f9a1b1bf.chunk.js.LICENSE.txt": "/fav-album-list-2.0/static/js/2.f9a1b1bf.chunk.js.LICENSE.txt"
+    "static/js/2.e51a78c8.chunk.js.LICENSE.txt": "/fav-album-list-2.0/static/js/2.e51a78c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6652d70.js",
-    "static/js/2.f9a1b1bf.chunk.js",
+    "static/js/2.e51a78c8.chunk.js",
     "static/css/main.b910616e.chunk.css",
-    "static/js/main.cbb73d35.chunk.js"
+    "static/js/main.267e61ff.chunk.js"
   ]
 }

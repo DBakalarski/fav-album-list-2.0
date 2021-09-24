@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c039386e4b4eb0360cf6fb45a04965f7",
+    "revision": "843319b6c6c0b481b9671dceb4f6f43c",
     "url": "/fav-album-list-2.0/index.html"
   },
   {
-    "revision": "e6ec775434e9d0368de9",
+    "revision": "ff7b96ec087bb3cf4d15",
     "url": "/fav-album-list-2.0/static/css/main.b910616e.chunk.css"
   },
   {
-    "revision": "8f54e81155a80d8dd2cf",
-    "url": "/fav-album-list-2.0/static/js/2.f9a1b1bf.chunk.js"
+    "revision": "caa61854355f6c10a09c",
+    "url": "/fav-album-list-2.0/static/js/2.e51a78c8.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/fav-album-list-2.0/static/js/2.f9a1b1bf.chunk.js.LICENSE.txt"
+    "url": "/fav-album-list-2.0/static/js/2.e51a78c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6ec775434e9d0368de9",
-    "url": "/fav-album-list-2.0/static/js/main.cbb73d35.chunk.js"
+    "revision": "ff7b96ec087bb3cf4d15",
+    "url": "/fav-album-list-2.0/static/js/main.267e61ff.chunk.js"
   },
   {
     "revision": "975d181009628c430a37",
