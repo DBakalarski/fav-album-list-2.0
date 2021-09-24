@@ -27,7 +27,7 @@ export const tasksReducer = (state = initialState, action) => {
         (item) => item.id === action.payload
       );
       const albums = [...state.albums];
-      albums[findIndex].isBest = true;
+      albums[findIndex].isBest = !albums[findIndex].isBest;
 
       return {
         ...state,
