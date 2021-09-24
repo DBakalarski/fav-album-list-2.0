@@ -1,0 +1,42 @@
+.favMusicListItem {
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+  line-height: 1;
+
+  &:hover {
+    .favMusicListItem__title {
+      font-weight: bold;
+    }
+  }
+
+  &__title {
+    word-break: break-all;
+    flex-grow: 1;
+    @media (min-width: 768px) {
+      width: 200px;
+    }
+  }
+
+  &__removeIcon {
+    padding-left: 10px;
+    cursor: pointer;
+
+    &:hover {
+      color: #ff1919;
+    }
+  }
+
+  &__starIcon {
+    padding-left: 7px;
+    cursor: pointer;
+
+    &:hover {
+      color: #ffdf32;
+    }
+
+    &.active {
+      color: #ffdf32;
+    }
+  }
+}
